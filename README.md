@@ -11,7 +11,7 @@ Tool created to inject malicious code inside a legitimate apk in order to gain a
 
 ```bash
 git clone https://github.com/Invertebr4do/apkPoisoner.git
-cd BrutePress && chmod +x apkPoisoner.sh
+cd apkPoisoner && chmod +x apkPoisoner.sh
 ```
 
 # USAGE
