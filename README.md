@@ -4,6 +4,7 @@ Tool created to inject malicious code inside a legitimate apk in order to gain a
 # DEPENDENCIES
  - java
  - metasploit-framework
+ - zipalign
  - sponge
  - wget
 
